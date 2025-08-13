@@ -2,7 +2,7 @@
   "name": "hfetch",
   "type": "module",
   "version": "0.0.0",
-  "packageManager": "pnpm@10.13.1",
+  "packageManager": "pnpm@10.14.0",
   "description": "hookable ofetch",
   "author": "Kevin Kwong <kvoon@duck.com>",
   "license": "MIT",

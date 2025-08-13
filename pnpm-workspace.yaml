@@ -1,15 +1,13 @@
 catalogs:
   cli:
-    '@antfu/eslint-config': ^4.17.0
+    '@antfu/eslint-config': ^5.2.1
     '@antfu/ni': ^25.0.0
     '@antfu/nip': latest
-    eslint: ^9.31.0
-    lint-staged: ^16.1.2
-    simple-git-hooks: ^2.13.0
-    tsdown: ^0.12.9
+    eslint: ^9.33.0
+    lint-staged: ^16.1.5
+    simple-git-hooks: ^2.13.1
+    tsdown: ^0.14.1
     tsx: latest
-    typescript: ^5.8.3
+    typescript: ^5.9.2
   prod:
     hookable: ^5.5.3
-  utils:
-    cac: ^0.0.0
